@@ -1,0 +1,133 @@
+
+/* import fonts from fonts.css file */ 
+@import url(./fonts.css);
+
+
+/* css variables */ 
+@import url(./partials/_variables.css);
+
+/* import global styling */ 
+@import url(./partials/_global.css);
+
+
+/* start navigation */ 
+
+.header_area .main-menu .navbar{
+    background-color: rgba(198, 179, 255,0.5); 
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
+	
+	position : auto;
+}
+.header_area .main-menu .nav-item .nav-link{
+    padding:5px 65px 5px 20px;
+    color:black;
+}
+.header_area .main-menu .navbar-nav .active a{
+    color:blue;
+}
+.header_area .main-menu .navbar-nav a:hover{
+    background: blue;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+/* end navigation */ 
+
+/*  start For publication Page */ 
+.publication-class{
+    font-family: 'Times New Roman', Times, serif;
+}
+.publication-class .heading{
+    font-size: 30px;
+    font-weight: bold;
+    margin-top: 2%;
+    padding-left: 20px;
+    padding-top: 10px 10px;
+    background-color:rgba(198, 179, 255,0.3); 
+
+}
+.publication-class .heading-for-journal{
+    font-size: 23px;
+    font-weight: bold;
+    margin-left: 4%;
+    padding-top: 10px;
+    padding-bottom: 0px;
+}
+.publication-class .card{
+    margin-left:55px;
+    margin-top: 16px; 
+}
+.publication-class .card .card-header:hover{
+    box-shadow: var(--box-shadow);
+}
+.publication-class .card .card-header{
+    font-size: 20px;
+    background-color:rgba(198, 179, 255,0.3);
+}
+.publication-class .card .card-body {
+    padding-top:7px;
+    padding-bottom: 7px;
+    font-size: 17px;    
+}
+/*  End For publication Page */ 
+/*  Start For academic Page */ 
+.academic-class .container{
+    font-family: 'Times New Roman', Times, serif;
+}
+.academic-class .container h2{
+    padding:20px 20px;
+}
+/*  End For academic Page */ 
+
+/* Start sidebar Area
+.myClass img{
+	height:245px;
+}
+
+.myClass{
+background-color:rgba(198, 179, 255,0.3);
+margin-top:10px;
+margin-bottom:5px;
+padding-top:10px;
+padding-bottom:5px;
+padding-left:30px;
+font-family:  'Times New Roman', Times, serif;
+
+}
+  */
+.site-main .about-area{
+   background-color:pink;
+}
+
+.site-main .about-area .about-title h2 > span{
+/*     display: block;
+    font: normal bold 49px/ 60px var(--roboto);
+    letter-spacing: 21px;
+	background-color:blue; */
+}
+
+.site-main .about-area .about-title .paragraph > p{
+	background-color:red;
+	margin-left:3.5rem;
+}
+.site-main .about-area .about-image{
+	background-color:red;
+}
+End sidebar Area 
+/* Start About Area */ 
+/* 
+.site-main{
+background-color:rgba(198, 179, 255,0.3);
+margin-top:10px;
+margin-bottom:5px;
+margin-left:355px;
+padding-top:20px;
+padding-bottom:5px;
+padding-left:40px;
+font-family:  'Times New Roman', Times, serif;
+} */
+
+
+/* End About Area */ 
