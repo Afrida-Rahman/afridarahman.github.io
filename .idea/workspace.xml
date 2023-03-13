@@ -4,9 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="bdc71390-6772-4207-8ee3-d41c318dba1f" name="Changes" comment="changed readme">
+    <list default="true" id="bdc71390-6772-4207-8ee3-d41c318dba1f" name="Changes" comment="checked the name">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +95,21 @@
       <option name="project" value="LOCAL" />
       <updated>1678710156240</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="update some information">
+      <created>1678712293438</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1678712293438</updated>
+    </task>
+    <task id="LOCAL-00009" summary="checked the name">
+      <created>1678712571837</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1678712571837</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -106,6 +120,8 @@
     <MESSAGE value="deletd some redundant functions" />
     <MESSAGE value="changed the index file name" />
     <MESSAGE value="changed readme" />
-    <option name="LAST_COMMIT_MESSAGE" value="changed readme" />
+    <MESSAGE value="update some information" />
+    <MESSAGE value="checked the name" />
+    <option name="LAST_COMMIT_MESSAGE" value="checked the name" />
   </component>
 </project>
